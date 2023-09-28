@@ -1,0 +1,925 @@
+# Copyright (C) 2023 Brainstorm Force
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Spectra One 0.0.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/spectra-one\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-03-24T12:03:23+01:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: spectra-one\n"
+
+#. Theme Name of the theme
+msgid "Spectra One"
+msgstr ""
+
+#. Description of the theme
+msgid "Spectra One is a beautiful and modern WordPress theme built with the Full Site Editing (FSE) feature. It's a versatile theme that can be used for blogs, portfolios, businesses, and more. Spectra One comes with a sleek and professional design that will make your website stand out from the crowd."
+msgstr ""
+
+#. Author of the theme
+msgid "Brainstorm Force"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://brainstormforce.com/"
+msgstr ""
+
+#: inc/admin/welcome-notice.php:68
+msgid "Close this notice.."
+msgstr ""
+
+#: inc/admin/welcome-notice.php:73
+msgid "Spectra — WordPress Gutenberg Blocks"
+msgstr ""
+
+#: inc/admin/welcome-notice.php:76
+msgid "Page builder that works with the default WordPress editor"
+msgstr ""
+
+#: inc/admin/welcome-notice.php:79
+msgid "Whether you are a beginner, marketer, or professional, Spectra has the tools and resources you can rely on to succeed"
+msgstr ""
+
+#: inc/admin/welcome-notice.php:85
+msgid "Activate Spectra Plugin"
+msgstr ""
+
+#: inc/admin/welcome-notice.php:85
+msgid "Install & Activate Spectra"
+msgstr ""
+
+#: inc/admin/welcome-notice.php:215
+msgid "Activating"
+msgstr ""
+
+#: inc/admin/welcome-notice.php:216
+msgid "Installing"
+msgstr ""
+
+#: inc/admin/welcome-notice.php:217
+msgid "Done"
+msgstr ""
+
+#: inc/block-styles/button.php:22
+msgid "Secondary"
+msgstr ""
+
+#: inc/block-styles/categories.php:22
+msgid "Pill"
+msgstr ""
+
+#: inc/block-styles/search.php:24
+msgid "Minimal"
+msgstr ""
+
+#: inc/block-styles/separator.php:22
+msgid "Wide Thin Line"
+msgstr ""
+
+#: inc/extensions/hide-elements.php:58
+msgid "Disable Header"
+msgstr ""
+
+#: inc/extensions/hide-elements.php:62
+msgid "Disable Footer"
+msgstr ""
+
+#: inc/utilities/helpers.php:253
+msgid " Icon"
+msgstr ""
+
+#: patterns/alternate-card.php
+msgctxt "Pattern title"
+msgid "Alternate card"
+msgstr ""
+
+#: patterns/alternate-card.php:21
+msgid "Everything you need to create amazing websites"
+msgstr ""
+
+#: patterns/alternate-card.php:25
+msgid "Interactive design tools and its many customization options to customize anything and everything needed to build the fully-functional website of your dreams."
+msgstr ""
+
+#: patterns/alternate-card.php:38
+#: patterns/alternate-card.php:84
+msgid "Huge Design Collection"
+msgstr ""
+
+#: patterns/alternate-card.php:42
+#: patterns/alternate-card.php:88
+msgid "Imperdiet etiam scelerisque convallis pulvinar laoreet. Enim imperdiet nullam ullamcorper tempus vivamus eget leo elementum. Sed platea pellentesque nulla egestas porttitor."
+msgstr ""
+
+#: patterns/alternate-card.php:54
+#: patterns/alternate-card.php:72
+msgid "Outstanding Performance"
+msgstr ""
+
+#: patterns/alternate-card.php:58
+#: patterns/alternate-card.php:76
+msgid "In nisl enim vulputate varius. Nec sodales elit duis ornare. Non lectus elementum maecenas sit eu orci proin mauris netus."
+msgstr ""
+
+#: patterns/banner-wide.php
+msgctxt "Pattern title"
+msgid "Banner wide"
+msgstr ""
+
+#: patterns/banner-wide.php:24
+msgid "Customize your website visually and see the changes instantly!"
+msgstr ""
+
+#: patterns/banner-wide.php:30
+msgid "100+"
+msgstr ""
+
+#: patterns/banner-wide.php:34
+msgid "Block patterns"
+msgstr ""
+
+#: patterns/banner-wide.php:40
+msgid "20+"
+msgstr ""
+
+#: patterns/banner-wide.php:44
+msgid "Style variations"
+msgstr ""
+
+#: patterns/banner-wide.php:50
+msgid "48"
+msgstr ""
+
+#: patterns/banner-wide.php:54
+msgid "Pre-built templates"
+msgstr ""
+
+#: patterns/blog-classic.php
+msgctxt "Pattern title"
+msgid "Blog classic"
+msgstr ""
+
+#: patterns/blog-classic.php:13
+#: patterns/blog-grid.php:13
+#: patterns/blog-left-featured-image.php:13
+#: patterns/blog-simple.php:13
+#: patterns/template-index.php:14
+msgid "Latest Posts"
+msgstr ""
+
+#: patterns/blog-classic.php:33
+msgid "Read More"
+msgstr ""
+
+#: patterns/blog-grid.php
+msgctxt "Pattern title"
+msgid "Blog grid"
+msgstr ""
+
+#: patterns/blog-left-featured-image.php
+msgctxt "Pattern title"
+msgid "Blog left featured image"
+msgstr ""
+
+#: patterns/blog-simple.php
+msgctxt "Pattern title"
+msgid "Blog simple"
+msgstr ""
+
+#: patterns/call-to-action.php
+msgctxt "Pattern title"
+msgid "Call to action."
+msgstr ""
+
+#: patterns/call-to-action.php:29
+msgid "Take your website to the next level!"
+msgstr ""
+
+#: patterns/call-to-action.php:34
+#: patterns/header-center-menu.php:23
+#: patterns/header-left-menu.php:25
+#: patterns/header.php:24
+#: patterns/hero-banner.php:34
+msgid "Get Started"
+msgstr ""
+
+#: patterns/footer-five-columns-menu-inline.php
+msgctxt "Pattern title"
+msgid "Footer five columns menu inline"
+msgstr ""
+
+#: patterns/footer-five-columns-menu-inline.php:35
+#: patterns/footer-six-columns-menu-separated.php:66
+#: patterns/footer.php:50
+msgid "Products"
+msgstr ""
+
+#: patterns/footer-five-columns-menu-inline.php:40
+#: patterns/footer-six-columns-menu-separated.php:71
+#: patterns/footer.php:55
+msgid "Products List"
+msgstr ""
+
+#: patterns/footer-five-columns-menu-inline.php:42
+#: patterns/footer-six-columns-menu-separated.php:73
+#: patterns/footer.php:57
+msgid "Plans & Pricing"
+msgstr ""
+
+#: patterns/footer-five-columns-menu-inline.php:44
+#: patterns/footer-six-columns-menu-separated.php:75
+#: patterns/footer.php:59
+msgid "Services"
+msgstr ""
+
+#: patterns/footer-five-columns-menu-inline.php:46
+#: patterns/footer-six-columns-menu-separated.php:77
+#: patterns/footer.php:61
+msgid "Partners"
+msgstr ""
+
+#: patterns/footer-five-columns-menu-inline.php:63
+#: patterns/footer-six-columns-menu-separated.php:86
+#: patterns/footer.php:70
+msgid "Company"
+msgstr ""
+
+#: patterns/footer-five-columns-menu-inline.php:68
+#: patterns/footer-six-columns-menu-separated.php:91
+#: patterns/footer.php:75
+msgid "About Us"
+msgstr ""
+
+#: patterns/footer-five-columns-menu-inline.php:70
+#: patterns/footer-six-columns-menu-separated.php:93
+#: patterns/footer.php:77
+msgid "News"
+msgstr ""
+
+#: patterns/footer-five-columns-menu-inline.php:72
+#: patterns/footer-six-columns-menu-separated.php:95
+#: patterns/footer.php:79
+msgid "Contact Us"
+msgstr ""
+
+#: patterns/footer-five-columns-menu-inline.php:74
+#: patterns/footer-six-columns-menu-separated.php:97
+#: patterns/footer.php:81
+msgid "Meet Our Team"
+msgstr ""
+
+#: patterns/footer-five-columns-menu-inline.php:83
+#: patterns/footer-six-columns-menu-separated.php:134
+#: patterns/footer.php:98
+msgid "Resources"
+msgstr ""
+
+#: patterns/footer-five-columns-menu-inline.php:88
+#: patterns/footer-six-columns-menu-separated.php:119
+#: patterns/footer.php:103
+msgid "Gallery"
+msgstr ""
+
+#: patterns/footer-five-columns-menu-inline.php:90
+#: patterns/footer-six-columns-menu-separated.php:121
+#: patterns/footer.php:105
+msgid "Blog Articles"
+msgstr ""
+
+#: patterns/footer-five-columns-menu-inline.php:92
+#: patterns/footer-six-columns-menu-separated.php:123
+#: patterns/footer.php:107
+msgid "Brand Assets"
+msgstr ""
+
+#: patterns/footer-five-columns-menu-inline.php:94
+#: patterns/footer-six-columns-menu-separated.php:125
+#: patterns/footer.php:109
+msgid "Brand Guidelines"
+msgstr ""
+
+#: patterns/footer-five-columns-menu-inline.php:111
+#: patterns/footer-six-columns-menu-separated.php:114
+#: patterns/footer.php:118
+msgid "Support"
+msgstr ""
+
+#: patterns/footer-five-columns-menu-inline.php:116
+#: patterns/footer-six-columns-menu-separated.php:139
+#: patterns/footer.php:123
+msgid "Knowledge Base"
+msgstr ""
+
+#: patterns/footer-five-columns-menu-inline.php:118
+#: patterns/footer-six-columns-menu-separated.php:141
+#: patterns/footer.php:125
+msgid "Contact Support"
+msgstr ""
+
+#: patterns/footer-five-columns-menu-inline.php:120
+#: patterns/footer-six-columns-menu-separated.php:143
+#: patterns/footer-six-columns-menu-separated.php:223
+#: patterns/footer.php:127
+msgid "Privacy Policy"
+msgstr ""
+
+#: patterns/footer-five-columns-menu-inline.php:122
+#: patterns/footer-six-columns-menu-separated.php:145
+#: patterns/footer.php:129
+msgid "TOS"
+msgstr ""
+
+#: patterns/footer-five-columns-menu-inline.php:131
+msgid "Need help?"
+msgstr ""
+
+#: patterns/footer-five-columns-menu-inline.php:138
+#: patterns/footer-six-columns-menu-separated.php:169
+msgid "How to Videos"
+msgstr ""
+
+#: patterns/footer-five-columns-menu-inline.php:140
+#: patterns/footer-six-columns-menu-separated.php:171
+msgid "Ask the Community"
+msgstr ""
+
+#: patterns/footer-five-columns-menu-inline.php:142
+#: patterns/footer-six-columns-menu-separated.php:173
+#: patterns/hero-banner.php:39
+msgid "Learn More"
+msgstr ""
+
+#: patterns/footer-five-columns-menu-inline.php:163
+#: patterns/footer-minimal-menu-center.php:52
+#: patterns/footer-minimal-menu-right.php:39
+#: patterns/footer-six-columns-menu-separated.php:209
+#: patterns/footer.php:143
+msgid "© %d ·"
+msgstr ""
+
+#: patterns/footer-five-columns-menu-inline.php:169
+#: patterns/footer-six-columns-menu-separated.php:215
+#: patterns/footer.php:149
+msgid "· All rights reserved"
+msgstr ""
+
+#: patterns/footer-minimal-menu-center.php
+msgctxt "Pattern title"
+msgid "Footer minimal menu center"
+msgstr ""
+
+#: patterns/footer-minimal-menu-center.php:24
+#: patterns/footer-minimal-menu-right.php:23
+#: patterns/footer-six-columns-menu-separated.php:25
+#: patterns/header-center-menu.php:16
+#: patterns/header-left-menu.php:17
+#: patterns/header-left-menu.php:29
+#: patterns/header.php:17
+msgid "Home"
+msgstr ""
+
+#: patterns/footer-minimal-menu-center.php:26
+#: patterns/footer-minimal-menu-right.php:25
+#: patterns/footer-six-columns-menu-separated.php:27
+#: patterns/header-center-menu.php:17
+#: patterns/header-left-menu.php:18
+#: patterns/header-left-menu.php:30
+#: patterns/header.php:18
+msgid "About"
+msgstr ""
+
+#: patterns/footer-minimal-menu-center.php:28
+#: patterns/footer-minimal-menu-right.php:27
+#: patterns/footer-six-columns-menu-separated.php:29
+#: patterns/header-center-menu.php:18
+#: patterns/header-left-menu.php:19
+#: patterns/header-left-menu.php:31
+#: patterns/header.php:19
+msgid "Blog"
+msgstr ""
+
+#: patterns/footer-minimal-menu-center.php:30
+#: patterns/footer-minimal-menu-right.php:29
+#: patterns/footer-six-columns-menu-separated.php:31
+#: patterns/header-center-menu.php:19
+#: patterns/header-left-menu.php:20
+#: patterns/header-left-menu.php:32
+#: patterns/header.php:20
+msgid "Contact"
+msgstr ""
+
+#: patterns/footer-minimal-menu-center.php:62
+msgid "Privacy"
+msgstr ""
+
+#: patterns/footer-minimal-menu-center.php:66
+#: patterns/footer-six-columns-menu-separated.php:227
+msgid "·"
+msgstr ""
+
+#: patterns/footer-minimal-menu-center.php:70
+msgid "Terms"
+msgstr ""
+
+#: patterns/footer-minimal-menu-right.php
+msgctxt "Pattern title"
+msgid "Footer minimal menu right"
+msgstr ""
+
+#: patterns/footer-six-columns-menu-separated.php
+msgctxt "Pattern title"
+msgid "Footer six columns menu separated"
+msgstr ""
+
+#: patterns/footer-six-columns-menu-separated.php:162
+msgid "Need Help?"
+msgstr ""
+
+#: patterns/footer-six-columns-menu-separated.php:167
+msgid "What’s New"
+msgstr ""
+
+#: patterns/footer-six-columns-menu-separated.php:182
+msgid "Get in"
+msgstr ""
+
+#: patterns/footer-six-columns-menu-separated.php:187
+msgid "Book A Meeting"
+msgstr ""
+
+#: patterns/footer-six-columns-menu-separated.php:189
+msgid "Get Quote"
+msgstr ""
+
+#: patterns/footer-six-columns-menu-separated.php:191
+msgid "Ask Product Details"
+msgstr ""
+
+#: patterns/footer-six-columns-menu-separated.php:193
+msgid "Service Inquiry"
+msgstr ""
+
+#: patterns/footer-six-columns-menu-separated.php:231
+msgid "Terms and Conditions"
+msgstr ""
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Footer default"
+msgstr ""
+
+#: patterns/footer.php:25
+msgid "Nisl libero ullamcorper id ipsum viverra mauris non pellentesque placerat lorem lacinia sagittis non pretium."
+msgstr ""
+
+#: patterns/header-center-menu.php
+msgctxt "Pattern title"
+msgid "Header center menu"
+msgstr ""
+
+#: patterns/header-left-menu.php
+msgctxt "Pattern title"
+msgid "Header left menu"
+msgstr ""
+
+#: patterns/header.php
+msgctxt "Pattern title"
+msgid "Header default"
+msgstr ""
+
+#: patterns/hero-banner.php
+msgctxt "Pattern title"
+msgid "Hero banner"
+msgstr ""
+
+#: patterns/hero-banner.php:24
+msgid "Discover a new way to build website"
+msgstr ""
+
+#: patterns/hero-banner.php:28
+msgid "Create a functional and visually appealing website without having to write code."
+msgstr ""
+
+#: patterns/post-grid.php
+msgctxt "Pattern title"
+msgid "Post grid"
+msgstr ""
+
+#: patterns/post-grid.php:14
+msgid "Latest from The Blog"
+msgstr ""
+
+#: patterns/template-404.php
+msgctxt "Pattern title"
+msgid "Template 404"
+msgstr ""
+
+#: patterns/template-404.php:13
+msgid "Error 404"
+msgstr ""
+
+#: patterns/template-404.php:19
+msgid "Unfortunately, this page doesn't exist."
+msgstr ""
+
+#: patterns/template-404.php:19
+msgid "Maybe try a search?"
+msgstr ""
+
+#: patterns/template-404.php:22
+#: patterns/template-search.php:36
+msgid "Search"
+msgstr ""
+
+#: patterns/template-404.php:22
+msgid "Search..."
+msgstr ""
+
+#: patterns/template-archive.php
+msgctxt "Pattern title"
+msgid "Template Archive"
+msgstr ""
+
+#: patterns/template-full-width.php
+msgctxt "Pattern title"
+msgid "Template full width"
+msgstr ""
+
+#: patterns/template-index.php
+msgctxt "Pattern title"
+msgid "Template index"
+msgstr ""
+
+#: patterns/template-index.php:44
+msgid "Sorry, there's nothing to show here."
+msgstr ""
+
+#: patterns/template-index.php:49
+msgid "Go back to homepage"
+msgstr ""
+
+#: patterns/template-page.php
+msgctxt "Pattern title"
+msgid "Template page"
+msgstr ""
+
+#: patterns/template-search.php
+msgctxt "Pattern title"
+msgid "Template search"
+msgstr ""
+
+#: patterns/template-search.php:34
+msgid "Sorry, but nothing matched your search terms."
+msgstr ""
+
+#: patterns/template-search.php:34
+msgid "Try another search?"
+msgstr ""
+
+#: patterns/template-single.php
+msgctxt "Pattern title"
+msgid "Template single"
+msgstr ""
+
+#: patterns/testimonial.php
+msgctxt "Pattern title"
+msgid "Testimonial"
+msgstr ""
+
+#: patterns/testimonial.php:23
+msgid "No matter where you go, It's the coolest, most happening thing around! Not able to tell you how happy I am with it."
+msgstr ""
+
+#: patterns/testimonial.php:28
+msgid "Cameron Williamson"
+msgstr ""
+
+#: patterns/testimonial.php:32
+msgid "Director of Ucla"
+msgstr ""
+
+#: patterns/three-columns-featured.php
+msgctxt "Pattern title"
+msgid "Three columns featured"
+msgstr ""
+
+#: patterns/three-columns-featured.php:26
+msgid "Core WP Blocks"
+msgstr ""
+
+#: patterns/three-columns-featured.php:30
+#: patterns/three-columns-featured.php:44
+#: patterns/three-columns-featured.php:58
+msgid "Endless use-cases that make it highly flexible, adaptable, and scalable for everyone."
+msgstr ""
+
+#: patterns/three-columns-featured.php:40
+msgid "Easy Customizable"
+msgstr ""
+
+#: patterns/three-columns-featured.php:54
+msgid "Growing Library"
+msgstr ""
+
+#: patterns/three-columns-listing.php
+msgctxt "Pattern title"
+msgid "Three columns listing"
+msgstr ""
+
+#: patterns/three-columns-listing.php:36
+msgid "Easy installation"
+msgstr ""
+
+#: patterns/three-columns-listing.php:42
+msgid "Carefully crafted design. No coding required."
+msgstr ""
+
+#: patterns/three-columns-listing.php:46
+msgid "Install any demo and template with a single click. Choose and mix up patterns and blocks."
+msgstr ""
+
+#: patterns/three-columns-listing.php:59
+#: patterns/three-columns-listing.php:76
+#: patterns/three-columns-listing.php:94
+#: patterns/three-columns-listing.php:116
+#: patterns/three-columns-listing.php:134
+#: patterns/three-columns-listing.php:152
+#: patterns/three-columns-listing.php:173
+#: patterns/three-columns-listing.php:190
+#: patterns/three-columns-listing.php:208
+msgid "Template name"
+msgstr ""
+
+#: patterns/three-columns-listing.php:62
+#: patterns/three-columns-listing.php:79
+#: patterns/three-columns-listing.php:97
+#: patterns/three-columns-listing.php:119
+#: patterns/three-columns-listing.php:137
+#: patterns/three-columns-listing.php:155
+#: patterns/three-columns-listing.php:176
+#: patterns/three-columns-listing.php:193
+#: patterns/three-columns-listing.php:211
+msgid "Category"
+msgstr ""
+
+#: assets/js/editor.js:1
+#: build/editor.js:374
+#: src/extensions/page-settings/settings-list.js:20
+#: build/editor.js:345
+msgid "Disable Elements"
+msgstr ""
+
+#: assets/js/editor.js:1
+#: build/editor.js:420
+#: build/editor.js:424
+#: src/extensions/page-settings/settings.js:21
+#: src/extensions/page-settings/settings.js:29
+#: build/editor.js:374
+#: build/editor.js:382
+msgid "Page Settings"
+msgstr ""
+
+#: assets/js/editor.js:1
+#: build/editor.js:61
+#: src/block-extensions/header.js:25
+#: build/editor.js:27
+msgid "Enable Sticky Header"
+msgstr ""
+
+#: assets/js/editor.js:1
+#: build/editor.js:62
+#: src/block-extensions/header.js:31
+#: build/editor.js:33
+msgid "Transparent header option will be disabled on enabling this option."
+msgstr ""
+
+#: assets/js/editor.js:1
+#: build/editor.js:68
+#: src/block-extensions/header.js:45
+#: build/editor.js:47
+msgid "Enable Transparent Header"
+msgstr ""
+
+#: assets/js/editor.js:1
+#: build/editor.js:69
+#: src/block-extensions/header.js:51
+#: build/editor.js:53
+msgid "Sticky header option will be disabled on enabling this option."
+msgstr ""
+
+#: assets/js/editor.js:1
+#: build/editor.js:149
+#: src/block-extensions/responsive.js:32
+#: build/editor.js:140
+msgid "Hide Desktop"
+msgstr ""
+
+#: assets/js/editor.js:1
+#: build/editor.js:155
+#: src/block-extensions/responsive.js:44
+#: build/editor.js:152
+msgid "Hide Tablet"
+msgstr ""
+
+#: assets/js/editor.js:1
+#: build/editor.js:161
+#: src/block-extensions/responsive.js:55
+#: build/editor.js:163
+msgid "Hide Mobile"
+msgstr ""
+
+#: styles/dark.json
+msgctxt "Style variation name"
+msgid "Dark"
+msgstr ""
+
+#: styles/dark.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: styles/dark.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: styles/dark.json
+#: theme.json
+msgctxt "Color name"
+msgid "Heading"
+msgstr ""
+
+#: styles/dark.json
+#: theme.json
+msgctxt "Color name"
+msgid "Body"
+msgstr ""
+
+#: styles/dark.json
+#: theme.json
+msgctxt "Color name"
+msgid "Surface"
+msgstr ""
+
+#: styles/dark.json
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr ""
+
+#: styles/dark.json
+#: theme.json
+msgctxt "Color name"
+msgid "Outline"
+msgstr ""
+
+#: styles/dark.json
+#: theme.json
+msgctxt "Color name"
+msgid "Neutral"
+msgstr ""
+
+#: styles/dark.json
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr ""
+
+#: styles/dark.json
+#: theme.json
+msgctxt "Color name"
+msgid "Transparent"
+msgstr ""
+
+#: styles/dark.json
+#: theme.json
+msgctxt "Color name"
+msgid "Current Color"
+msgstr ""
+
+#: styles/dark.json
+#: theme.json
+msgctxt "Color name"
+msgid "Inherit"
+msgstr ""
+
+#: styles/dark.json
+#: theme.json
+msgctxt "Gradient name"
+msgid "Primary"
+msgstr ""
+
+#: styles/dark.json
+#: theme.json
+msgctxt "Duotone name"
+msgid "Primary"
+msgstr ""
+
+#: styles/dark.json
+#: theme.json
+msgctxt "Duotone name"
+msgid "Secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "XX Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "X Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "X Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "XX Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Inter"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "X Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "X Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XX Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XXX Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XXXX Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Full width"
+msgstr ""
